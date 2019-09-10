@@ -1,0 +1,38 @@
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe.config
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.pdb
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.exe
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.pdb
+C:\Users\Alfredo\Desktop\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.Admin.resources
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe.config
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.exe
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.pdb
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.pdb
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.Admin.resources
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.GenerateResource.Cache
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe.config
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.pdb
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csprojAssemblyReference.cache
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.Admin.resources
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.Properties.Resources.resources
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.GenerateResource.cache
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.CoreCompileInputs.cache
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.exe
+E:\Práctica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.pdb
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe.config
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.exe
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\bin\Debug\AdministradorTareas.pdb
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csprojAssemblyReference.cache
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.Admin.resources
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.Properties.Resources.resources
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.GenerateResource.cache
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.exe
+C:\Users\Jorge\Documents\9 semestre\Sistemas Operativos\Practica 1\Administrador de tareas\AdministradorTareas\obj\Debug\AdministradorTareas.pdb
